@@ -1,5 +1,8 @@
 # PIATRON-Automated-Food-Counter-Mass-Scale
 
+![The team](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ryqcci5lvs7riayb95lx.png)
+
+
 On July 7th, 2023, we started our SIWES 1 program, my group was assigned to build a food monitoring system for the school cafeteria. Usually, when students or staff come to the cafeteria they might get there and see that their food is not available, our task was to help students, staff and other personnel in the school know the amount of each food available for sale at any given moment. After speaking with the school cafeteria staff and our assigned mentors we came up with a solution. 
 
 - First, the amount of food available will have to be uploaded to a database. We achieved this via two methods.
@@ -163,6 +166,27 @@ To access the code for the mass-scale check my [GitHub repository](https://githu
 
 In summary, our journey to create a food monitoring system for the school cafeteria was a rewarding experience that showcased the power of technology to solve real-world problems. By combining hardware innovation with software development, we've laid the foundation for a more efficient and user-friendly cafeteria experience. Our project reflects our commitment to using technology to improve everyday processes, and we look forward to future opportunities to make a positive impact through innovation.
 
+## Meet the team
+
+[Pius](https://www.linkedin.com/in/pius-ndukwu-75b07a1b9/) (Embedded Systems Developer): Pius is a visionary embedded software developer, driven by an unwavering passion to revolutionize the embedded system landscape in Nigeria. From his formative high school days to his current endeavours, he has consistently displayed an innate talent for crafting ingenious embedded software solutions. His skill set encompasses not only cutting-edge embedded software development but also exceptional communication, seamless teamwork, astute critical thinking, and a strong entrepreneurial spirit.
+
+[Igwe](https://www.linkedin.com/in/onyedika-igwe-823491225/) (Head of Design): Igwe is an aspiring control systems Engineer currently studying Electrical engineering at Pan-Atlantic University. He has had many experiences with design from software UI designs to hardware CADs. He embodies a number of problem-solving skills such as logical reasoning and critical thinking.
+
+
+[Al-Hameen Mohammed](https://www.linkedin.com/in/al-hameen-mohammed/) (Project Manager): Al-Hameen Mohammed is a talented web developer on a mission to craft exceptional online experiences. With a solid foundation in web development technologies, he brings websites to life through his coding expertise. Al-Hameen's journey in web development started with a strong passion for creating visually appealing and user-friendly websites. He excels in front-end and back-end development, mastering languages such as HTML, CSS, JavaScript, and various frameworks. Al-Hameen is dedicated to delivering responsive, efficient, and interactive web solutions, making him a valuable asset in the world of web development.
+
+Dr. Paul Onoriode Avbenake (Mentor):Dr. Paul Onoriode Avbenake is a faculty member at The School of Science and Technology, at Pan-Atlantic University. He obtained his B.Sc. in Chemical Engineering from The University of Lagos and M.S.C in the same field from Ahmadu Bello University (ABU), Zaria. His research interests are Catalysis, Energy, Waste management, Mathematical simulation, and Water harvesting. He has published several journal articles and contributed various book chapters with international publishers as well as presented his research at several international conferences. He is equally a registered COREN, NSChE, and a member of the African Membrane Society (AMS).
+
+Dr Agholor joined Pan-Atlantic University in 2016 as a member of the SMSS faculty of the School of Management and Social Sciences where he taught Leadership and Elements of Management. In October 2020, he became the pioneer dean of the School of Science and Technology.
+
+Prior to joining Pan-Atlantic University, he had been a co-creator and later Director of a social enterprise, the Institute for Industrial Technology (IIT), which has become a reference institution in the development of middle-level technical manpower for the industrial sector of the economy. He is a member of the IIT governing council. He has over 15 years of management experience in the non-profit sector.
+
+Dr. Agholor Darlington(Mentor): Dr. Agholor graduated in Mechanical Engineering, and later obtained an MSc in Industrial Engineering, both at the University of Ibadan and then a Doctorate in Industrial Management at the University of Navarre, Spain.
+
+His current research is in mentoring and competency development.
+
+## Contributions
+Al-hameen built the web application for the automated food counter, drew out the team project plan, and participated in the fabrication of the mass scale. Igwe created the CAD designs for the mass scale, the web application designs, designed the company’s logo, participated in the fabrication of the mass scale, and designed the manual for our product. Pius procured the materials needed, wrote the code for the embedded system, designed and built the electrical circuit, participated in the fabrication of the mass scale, and wrote this article. Our mentors, Dr. Paul Onoriode Avbenake and Dr. Agholor Darlington provided invaluable guidance and expertise throughout our journey, helping us transform our vision into a successful reality.
 
 
 
